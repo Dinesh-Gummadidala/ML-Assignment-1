@@ -1,6 +1,9 @@
 # ML-Assignment-1
+
 Student Name: Dinesh Gummadidala
+
 Student ID: 700741247
+
 Question 1: sort() is used to sort the ages and  first element will be the minimum and last element will be the maximum in the list and the median is found by adding middle elements or directly taking middle element based on length and range is found using maximum-minimum
 
 Question 2: Length of the dictionary is found by using len() method and the keys set can be found by using keys() method and values set can be found using the values() method and these can be converted to the list using list().
